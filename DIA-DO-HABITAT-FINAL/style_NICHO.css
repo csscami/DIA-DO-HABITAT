@@ -114,7 +114,9 @@ h2 {
 }
 
 p {
-    font-size: larger;
+    font-size: medium;
+    hyphens: auto;
+    text-align: justify;
 }
 
 .texto-3 {
